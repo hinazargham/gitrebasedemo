@@ -4,3 +4,4 @@ using smartgit rebase concept fast forward
 
 
 using smartgit rebase concept merge commit
+in ui
