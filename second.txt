@@ -1,3 +1,6 @@
 rebase2
 
 using smartgit rebase concept fast forward
+
+
+using smartgit rebase concept merge commit
