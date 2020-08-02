@@ -4,3 +4,5 @@ Rebase3
 updated
 
 checking fast-forward dev branch3 okkkk
+
+REBASE IN REBASE_SMARTGIT BRANCH in smartgit
