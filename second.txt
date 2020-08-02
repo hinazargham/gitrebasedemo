@@ -7,4 +7,7 @@ using smartgit rebase concept merge commit
 in ui
 
 
-demo rebase in second.txt master branch
+demo rebase in second.txt master branch in terminal
+
+
+demo rebase in second.txt master branch in smartgit
